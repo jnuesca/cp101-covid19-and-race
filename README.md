@@ -2,7 +2,7 @@
 ### CP101 - Assignment 3: COVID-19 & Race
 **Clevian Hsia** (clayveean@berkeley) & **Joshua Nuesca** (jnuesca@berkeley)
 
-**Website URL:** https://covidandracecp101.wordpress.com/
+**Website URL:** https://cp101-covidandrace.weebly.com
 
 ### Project Description
 
